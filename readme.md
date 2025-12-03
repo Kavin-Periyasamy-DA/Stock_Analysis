@@ -19,27 +19,27 @@ This project showcases:
 
 1. Data Extraction (Python + API)
 
-    Source: Yahoo Finance (yfinance)
-    Fetches multiple stock symbols
-    Hourly/daily prices stored in data_raw/
+    Source: Yahoo Finance (yfinance).
+    Fetches multiple stock symbols.
+    Hourly/daily prices stored in data_raw/.
 
 2. Data Cleaning & Transformation
 
-    Standardize column names
-    Convert timestamps
-    Calculate % change & daily returns
-    Store cleaned files in data_clean/
+    Standardize column names.
+    Convert timestamps.
+    Calculate % change & daily returns.
+    Store cleaned files in data_clean/.
 
 3. Data Validation (SQL + Python)
 
     Includes:
-        Null checks
-        Duplicate detection
-        Negative/zero price checks
-        Outlier detection
-        Price consistency validation
-        Row count comparison
-        Validation logs
+        Null checks,
+        Duplicate detection,
+        Negative/zero price checks,
+        Outlier detection,
+        Price consistency validation,
+        Row count comparison,
+        Validation logs.
 
 4. SQL Database Storage
 
