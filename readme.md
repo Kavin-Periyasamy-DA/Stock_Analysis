@@ -54,17 +54,17 @@ This project showcases:
 
 Automation steps:
     
-    Fetch data
-    Clean data
-    Validate data
-    Insert to SQL
-    Log results
+    Fetch data,
+    Clean data,
+    Validate data,
+    Insert to SQL,
+    Log results.
 
 6. Data Analysis & Insights
 
     Visualized in Power BI:
-        Closing price trends
-        Top gainers/losers
-        Volume trends
-        Daily percentage change
-        Moving averages
+        Closing price trends,
+        Top gainers/losers,
+        Volume trends,
+        Daily percentage change,
+        Moving averages.
